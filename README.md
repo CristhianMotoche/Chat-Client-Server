@@ -3,6 +3,7 @@
 ## Clone and compile
 ```
 - git clone https://github.com/CristhianMotoche/Chat-Client-Server.git
+- cd Chat-Client-Server/
 - javac src/*.java
 ```
 

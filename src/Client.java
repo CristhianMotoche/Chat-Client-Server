@@ -27,6 +27,7 @@ public class Client {
                 new BufferedReader(
                     new InputStreamReader(echoSocket.getInputStream()));
             ) {
+
             String inputFromServer;
             chat.getjButton1().addActionListener((ActionEvent ae) -> {
                 String userInput = JOptionPane.showInputDialog(null, "Ingrese su mensaje", "Cliente", 1);
