@@ -13,6 +13,7 @@
 - cd src
 - java Server [PORT]
 ```
+
 ## Run client
 
 ```
